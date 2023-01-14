@@ -6,6 +6,6 @@ I'm learning how to do small projects as part of the [Result school](https://res
 
 Here i learned the principle of "Drag & Drop", where everything is based on events in Java Script.
 
-We have created a small application, a clone of [trello](https://trello.com/) .
+We have created a small application, a clone of [trello](https://trello.com/) . [can be seen here](https://shevmellow.github.io/project-2-5/)
 
 Here a new draggeble property (class) appears in the html document.
